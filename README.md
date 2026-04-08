@@ -9,26 +9,6 @@ Using a simulated dataset designed to reflect real-world fintech and DeFi enviro
 
 The project integrates SQL, Python, and Power BI to demonstrate a complete analytical workflow - from data extraction and transformation to insight generation and business-oriented visualization.
 
-
-📊 Key Insights
-
-🔻Funnel Performance & Drop-offs
-A significant drop-off occurs between funding and product usage, indicating potential friction in product activation or unclear value delivery.
-While onboarding and funding conversion remain relatively strong, activation into core product usage represents the primary bottleneck.
-
-📱 Behavioral Segmentation
-User behavior varies across device types, with mobile users dominating volume but not always leading in engagement efficiency.
-Geographic segmentation reveals variations in funding behavior across countries, suggesting potential localization or market-specific optimization opportunities.
-
-💰 User Value & Contribution
-Deposit analysis highlights that high-value users contribute disproportionately to total volume, emphasizing the importance of identifying and retaining these segments.
-Differences across user segments suggest distinct behavioral and value patterns, supporting targeted engagement strategies.
-
-🔁 Retention Dynamics
-Retention rates indicate that a substantial portion of users do not transition into long-term engagement, reinforcing the need for improved post-activation experience and continuous value delivery.
-
-
-
 **Objectives**
 
 Analyze user progression through key funnel stages (connection → funding → usage → retention),                 
@@ -52,3 +32,5 @@ Retention remains a key opportunity for improvement
 **Dataset Note**
 
 This dataset is simulated for analytical purposes and reflects typical user behavior patterns in FinTech/DeFi products.
+
+
