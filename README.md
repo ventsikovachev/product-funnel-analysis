@@ -29,6 +29,16 @@ Retention remains a key opportunity for improvement
 
 ![dashboard](PowerBI_ProductAnalytics.pdf)
 
+**Outcome**
+
+The project demonstrates the ability to:
+
+Perform end-to-end product data analysis
+Identify critical user journey friction points
+Combine technical tools with business thinking
+Translate data into clear, actionable insights
+
+
 **Project Structure**
 
 data/           → dataset used for analysis  
@@ -37,6 +47,7 @@ python/         → analysis notebook
 dashboard/      → Power BI dashboard  
 screenshots/    → key visuals and outputs  
 README.md       → project documentation  
+
 
 **Dataset Note**
 
