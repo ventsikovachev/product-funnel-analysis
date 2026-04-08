@@ -15,9 +15,7 @@ Evaluate user value through deposit behavior
 **Tools**
 
 SQL
-
 Python (pandas, matplotlib)
-
 Power BI
 
 **Key Insights**
