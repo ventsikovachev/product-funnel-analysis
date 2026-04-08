@@ -7,15 +7,15 @@ This project analyzes user behavior across a digital product funnel using a simu
 
 **Objectives**
 
-Analyze user progression through key funnel stages
-Identify drop-offs and conversion rates
-Segment users by country, device, and user type
-Evaluate user value through deposit behavior
+Analyze user progression through key funnel stages,
+Identify drop-offs and conversion rates,
+Segment users by country, device, and user type,
+Evaluate user value through deposit behavior,
 
 **Tools**
 
-SQL
-Python (pandas, matplotlib)
+SQL,
+Python (pandas, matplotlib),
 Power BI
 
 **Key Insights**
