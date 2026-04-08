@@ -1,5 +1,6 @@
 
 **Product Funnel & User Behavior Analysis (FinTech / DeFi)**
+![dashboard](PowerBI_ProductAnalytics.pdf)
 
 **Overview**
 
