@@ -5,7 +5,7 @@
 
 This project analyzes user behavior across a digital product funnel using a simulated dataset designed to reflect real-world FinTech and DeFi environments.
 The analysis explores how users progress from onboarding to long-term retention, identifying key friction points and opportunities for product optimization.
-It integrates SQL, Python, and Power BI to demonstrate a complete analytical workflow — from data extraction and transformation to insight generation and business-oriented visualization.
+It integrates SQL, Python, and Power BI to demonstrate a complete analytical workflow - from data extraction and transformation to insight generation and business-oriented visualization.
 
 **Objectives**
 
