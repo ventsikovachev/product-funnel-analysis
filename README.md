@@ -33,10 +33,10 @@ Retention remains a key opportunity for improvement
 
 The project demonstrates the ability to:
 
-Perform end-to-end product data analysis
-Identify critical user journey friction points
-Combine technical tools with business thinking
-Translate data into clear, actionable insights
+Perform end-to-end product data analysis,
+Identify critical user journey friction points,
+Combine technical tools with business thinking,
+Translate data into clear, actionable insights.
 
 
 **Project Structure**
