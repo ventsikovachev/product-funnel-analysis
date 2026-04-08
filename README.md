@@ -29,6 +29,15 @@ Retention remains a key opportunity for improvement
 
 ![dashboard](PowerBI_ProductAnalytics.pdf)
 
+**Project Structure**
+
+data/           → dataset used for analysis  
+sql/            → SQL queries for data extraction  
+python/         → analysis notebook  
+dashboard/      → Power BI dashboard  
+screenshots/    → key visuals and outputs  
+README.md       → project documentation  
+
 **Dataset Note**
 
 This dataset is simulated for analytical purposes and reflects realistic user behavior patterns in FinTech and DeFi products.
