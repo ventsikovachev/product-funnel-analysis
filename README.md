@@ -22,12 +22,20 @@ Power BI → interactive dashboard and data storytelling
 
 **Key Insights**
 
-Significant drop-off between funding and product usage, indicating friction in activation
-User behavior varies across devices and regions
-High-value users contribute disproportionately to total deposits
-Retention remains a key opportunity for improvement
+*Significant drop-off between funding and product usage, indicating friction in activation
+*User behavior varies across devices and regions
+*High-value users contribute disproportionately to total deposits
+*Retention remains a key opportunity for improvement
 
 ![dashboard](PowerBI_ProductAnalytics.pdf)
+
+**Business Recommendations**
+
+Improve product activation by simplifying the transition from funding to product usage (e.g. onboarding guidance, UX improvements)
+Introduce targeted engagement strategies for high-value users to maximize retention and lifetime value
+Optimize mobile experience, as it represents the largest user segment
+Implement retention mechanisms (notifications, incentives) to reduce churn after first usage
+
 
 **Outcome**
 
