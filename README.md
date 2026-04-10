@@ -63,7 +63,6 @@ data/           → dataset used for analysis
 sql/            → SQL queries for data extraction  
 python/         → analysis notebook  
 dashboard/      → Power BI dashboard  
-screenshots/    → key visuals and outputs  
 README.md       → project documentation  
 
 
