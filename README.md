@@ -9,42 +9,40 @@ It integrates SQL, Python, and Power BI to demonstrate a complete analytical wor
 
 **Objectives**
 
-Analyze user progression through key funnel stages (connection → funding → usage → retention)
-Identify drop-offs and conversion rates
-Segment users by country, device, and user type
-Evaluate user value through deposit behavior
+Analyze user progression through key funnel stages (connection → funding → usage → retention).
+Identify drop-offs and conversion rates.
+Segment users by country, device, and user type.
+Evaluate user value through deposit behavior.
 
 **Tools**
 
-SQL → data extraction, aggregation, and segmentation
-Python (pandas, matplotlib) → data analysis and exploration
-Power BI → interactive dashboard and data storytelling
+SQL → data extraction, aggregation, and segmentation.
+Python (pandas, matplotlib) → data analysis and exploration.
+Power BI → interactive dashboard and data storytelling.
 
 **Key Insights**
 
-*Significant drop-off between funding and product usage, indicating friction in activation
-*User behavior varies across devices and regions
-*High-value users contribute disproportionately to total deposits
-*Retention remains a key opportunity for improvement
+A significant drop-off occurs between funding and product usage, suggesting friction in user activation and unclear value delivery post-funding.
+User behavior differs across devices and regions, indicating potential inconsistencies in user experience and engagement across segments.
+A small segment of high-value users contributes disproportionately to total deposits, highlighting concentration of value.
+Retention rates indicate limited transition into long-term engagement, suggesting weak post-activation user experience.
+
+**Business Recommendations**
+Improve activation by simplifying the transition from funding to product usage, for example through guided onboarding flows, clearer product value communication, and reducing friction in first-time interactions.
+Introduce targeted engagement strategies for high-value users (e.g. personalized offers, loyalty incentives, or premium features) to maximize retention and lifetime value.
+Optimize the mobile experience, as it represents the dominant user segment, ensuring smoother navigation, faster interactions, and clearer product flows.
+Strengthen retention mechanisms by introducing post-activation engagement strategies such as notifications, usage incentives, and continuous value reinforcement.
 
 ![dashboard](PowerBI_ProductAnalytics.pdf)
 
-**Business Recommendations**
-
-Improve product activation by simplifying the transition from funding to product usage (e.g. onboarding guidance, UX improvements)
-Introduce targeted engagement strategies for high-value users to maximize retention and lifetime value
-Optimize mobile experience, as it represents the largest user segment
-Implement retention mechanisms (notifications, incentives) to reduce churn after first usage
-
-
 **Outcome**
 
-The project demonstrates the ability to:
+This project demonstrates the ability to:
 
-Perform end-to-end product data analysis,
-Identify critical user journey friction points,
-Combine technical tools with business thinking,
-Translate data into clear, actionable insights.
+Perform end-to-end product data analysis.
+Identify critical user journey friction points.
+Combine technical tools with product thinking.
+Translate data into clear, actionable business insights.
 
 
 **Project Structure**
