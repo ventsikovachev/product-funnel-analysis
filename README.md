@@ -51,10 +51,13 @@ Strengthen retention mechanisms by introducing post-activation engagement strate
 
 This project demonstrates the ability to:
 
-Perform end-to-end product data analysis.<br>  
-Identify critical user journey friction points.<br>  
-Combine technical tools with product thinking.<br>  
-Translate data into clear, actionable business insights.<br>  
+Perform end-to-end product data analysis.
+
+Identify critical user journey friction points.
+
+Combine technical tools with product thinking. 
+
+Translate data into clear, actionable business insights.
 
 
 **Project Structure**
