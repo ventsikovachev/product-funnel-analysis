@@ -10,8 +10,11 @@ It integrates SQL, Python, and Power BI to demonstrate a complete analytical wor
 **Objectives**
 
 Analyze user progression through key funnel stages (connection → funding → usage → retention).
+
 Identify drop-offs and conversion rates.
+
 Segment users by country, device, and user type.
+
 Evaluate user value through deposit behavior.
 
 **Tools**
