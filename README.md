@@ -36,9 +36,13 @@ A small segment of high-value users contributes disproportionately to total depo
 Retention rates indicate limited transition into long-term engagement, suggesting weak post-activation user experience.
 
 **Business Recommendations**
+
 Improve activation by simplifying the transition from funding to product usage, for example through guided onboarding flows, clearer product value communication, and reducing friction in first-time interactions.
+
 Introduce targeted engagement strategies for high-value users (e.g. personalized offers, loyalty incentives, or premium features) to maximize retention and lifetime value.
+
 Optimize the mobile experience, as it represents the dominant user segment, ensuring smoother navigation, faster interactions, and clearer product flows.
+
 Strengthen retention mechanisms by introducing post-activation engagement strategies such as notifications, usage incentives, and continuous value reinforcement.
 
 ![dashboard](PowerBI_ProductAnalytics.pdf)
@@ -47,10 +51,10 @@ Strengthen retention mechanisms by introducing post-activation engagement strate
 
 This project demonstrates the ability to:
 
-Perform end-to-end product data analysis.
-Identify critical user journey friction points.
-Combine technical tools with product thinking.
-Translate data into clear, actionable business insights.
+Perform end-to-end product data analysis.<br>  
+Identify critical user journey friction points.<br>  
+Combine technical tools with product thinking.<br>  
+Translate data into clear, actionable business insights.<br>  
 
 
 **Project Structure**
