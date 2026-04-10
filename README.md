@@ -20,14 +20,19 @@ Evaluate user value through deposit behavior.
 **Tools**
 
 SQL → data extraction, aggregation, and segmentation.
+
 Python (pandas, matplotlib) → data analysis and exploration.
+
 Power BI → interactive dashboard and data storytelling.
 
 **Key Insights**
 
 A significant drop-off occurs between funding and product usage, suggesting friction in user activation and unclear value delivery post-funding.
+
 User behavior differs across devices and regions, indicating potential inconsistencies in user experience and engagement across segments.
+
 A small segment of high-value users contributes disproportionately to total deposits, highlighting concentration of value.
+
 Retention rates indicate limited transition into long-term engagement, suggesting weak post-activation user experience.
 
 **Business Recommendations**
