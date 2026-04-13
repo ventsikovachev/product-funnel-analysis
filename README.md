@@ -45,7 +45,7 @@ Optimize the mobile experience, as it represents the dominant user segment, ensu
 
 Strengthen retention mechanisms by introducing post-activation engagement strategies such as notifications, usage incentives, and continuous value reinforcement.
 
-![dashboard](PowerBI_ProductAnalytics.pdf)
+![dashboard](dashboard_powerbi.pdf)
 
 **Outcome**
 
